@@ -1,0 +1,61 @@
+{
+ "code": "M718A",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "54 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M718",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "+10 TO +25 VOLTS DC",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "33",
+   "signal": "BUSY TALLY OUTPUT",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "48",
+   "signal": "TALKBACK ADDRESS OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "54",
+   "signal": "TALKBACK ADDRESS OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp"
+ ]
+}
