@@ -16,7 +16,7 @@
    "polarity": null,
    "confidence": "variant",
    "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -27,7 +27,7 @@
    "polarity": null,
    "confidence": "variant",
    "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -38,7 +38,7 @@
    "polarity": null,
    "confidence": "variant",
    "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -49,13 +49,13 @@
    "polarity": null,
    "confidence": "variant",
    "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
    "page": 1
   }
  ],
  "straps": [],
  "power": [],
  "sources": [
-  "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp"
+  "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp"
  ]
 }
